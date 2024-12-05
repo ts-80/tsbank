@@ -1,0 +1,7 @@
+D:\PROGRAMAÇÃO\senai_csharp\TsBank\TsBank\bin\Debug\TsBank.exe.config
+D:\PROGRAMAÇÃO\senai_csharp\TsBank\TsBank\bin\Debug\TsBank.exe
+D:\PROGRAMAÇÃO\senai_csharp\TsBank\TsBank\bin\Debug\TsBank.pdb
+D:\PROGRAMAÇÃO\senai_csharp\TsBank\TsBank\obj\Debug\TsBank.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\senai_csharp\TsBank\TsBank\obj\Debug\TsBank.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\senai_csharp\TsBank\TsBank\obj\Debug\TsBank.exe
+D:\PROGRAMAÇÃO\senai_csharp\TsBank\TsBank\obj\Debug\TsBank.pdb
